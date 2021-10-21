@@ -1,5 +1,5 @@
 package it.serviziorest.entity;
-
+//ciao
 public class Prova {
 	private int id;
 	private String nome;
